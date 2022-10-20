@@ -1,7 +1,7 @@
 # Competition_2020_Mango_Image_Recognition-Defective_Classification
 AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 
-<img src="./figures/title.PNG" width = "800" height = "200" div align=center />
+<img src="./figures/title.PNG" width = "800" height = "150" div align=center />
 
 ## 比賽說明
 
@@ -47,4 +47,4 @@ AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 
 ## 實驗結果
 
-<img src="./figures/mango.png" width = "800" height = "200" div align=center />
+<img src="./figures/mango.png" width = "800" height = "150" div align=center />
