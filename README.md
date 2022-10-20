@@ -1,7 +1,7 @@
 # Competition_2020_Mango_Image_Recognition-Defective_Classification
 AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 
-<img src="./figures/title.PNG" width = "700" height = "300" div align=center />
+<img src="./figures/title.PNG" width = "800" height = "200" div align=center />
 
 ## 比賽說明
 
@@ -39,12 +39,12 @@ AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 
 1. yolo_txt_process.py / yolo_txt_process.ipynb →
 
-是將圖片路徑寫入txt檔以及將圖片的類別和位置資訊以yolov5規定的格式寫入txt檔
+  是將圖片路徑寫入txt檔以及將圖片的類別和位置資訊以yolov5規定的格式寫入txt檔
 
-2. 6.	test_result_label.py / test_result_label.ipynb →
+2. test_result_label.py / test_result_label.ipynb →
 
-是將test圖片偵測後輸出的結果轉換為各自包含的不良類別，並將答案填回特定的csv檔案中
+  是將test圖片偵測後輸出的結果轉換為各自包含的不良類別，並將答案填回特定的csv檔案中
 
 ## 實驗結果
 
-<img src="./figures/mango.png" width = "700" height = "300" div align=center />
+<img src="./figures/mango.png" width = "800" height = "200" div align=center />
