@@ -1,0 +1,2 @@
+# Competition_2020_Mango_Image_Recognition-Defective_Classification
+AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
