@@ -9,7 +9,12 @@ AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 
 - 此項比賽希望AI圖像識別技術能夠應用於圖像分類，快速識別愛文芒果有缺陷的原因。此外，希望這些數據將來能用於分析和預測，為生產者提供信息，降低芒果的次品率。
 
-- 不良品類別：乳汁吸附(Adsorption)、機械傷害(Mechanical damage)、炭疽病(Anthrax)、著色不佳(Poor coloring)、黑斑病(Black spot)
+- 不良品類別
+	- 乳汁吸附(Adsorption)
+	- 機械傷害(Mechanical damage)
+	- 炭疽病(Anthrax)
+	- 著色不佳(Poor coloring)
+	- 黑斑病(Black spot)
 
 ## Environment
 
@@ -73,15 +78,15 @@ Run the following command:
   python detect_modify.py --weights best.pt –conf 0.1 --augment 
   ```
   
-* Other Operation
+## Other Operation
 
 1. yolo_txt_process.py / yolo_txt_process.ipynb →
 
-  是將圖片路徑寫入txt檔以及將圖片的類別和位置資訊以yolov5規定的格式寫入txt檔
+	是將圖片路徑寫入txt檔以及將圖片的類別和位置資訊以yolov5規定的格式寫入txt檔
 
 2. test_result_label.py / test_result_label.ipynb →
 
-  是將test圖片偵測後輸出的結果轉換為各自包含的不良類別，並將答案填回特定的csv檔案中
+	是將test圖片偵測後輸出的結果轉換為各自包含的不良類別，並將答案填回特定的csv檔案中
 
 ## Results
 
