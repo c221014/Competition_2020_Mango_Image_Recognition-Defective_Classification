@@ -22,7 +22,7 @@ AI CUP 2020 Mango Image Recognition Challenge: Defective Classification
 - GeForce RTX 3090 GPU
 - python3.8.5
 - torch>=1.7.0
-- torchvision=0.8.1 
+- torchvision>=0.8.1 
 
 ## Installation
 
